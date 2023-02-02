@@ -65,3 +65,15 @@ button {
 .btn-div {
     text-align: right;
 }
+
+footer {
+    background-color: blue;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+footer h6 {
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}

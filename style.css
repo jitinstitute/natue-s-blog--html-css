@@ -12,11 +12,18 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+header {
+    background-color: #2E7AD3;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    padding: 20px 0;
+}
+
 .title {
     font-size: 48px;
     text-align: center;
-    color: black;
-    margin-top: 30px;
+    color: white;
 }
 
 h1 {
@@ -30,8 +37,9 @@ h1 {
     width: 500px;
     margin: auto;
     padding: 30px;
-    margin-top: 40px;
+    margin-top: 140px;
     text-align: center;
+
 
 }
 
@@ -67,11 +75,12 @@ button {
 }
 
 footer {
-    background-color: blue;
+    background-color: #2E7AD3;
     position: absolute;
     bottom: 0;
     width: 100%;
 }
+
 footer h6 {
     color: white;
     padding: 10px 0;
